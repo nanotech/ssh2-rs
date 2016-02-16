@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Listener","A listener represents a forwarding port from the remote server.New channels can be accepted from a listener which represent connections on the remote server's port."]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["ScpFileStat","Metadata returned about a remote file when received via `scp`."],["Session","An SSH session, typically representing one TCP connection.All other structures are based on an SSH session and cannot outlive a session. Sessions are created and then have the TCP socket handed to them (via the `handshake` method)."]]});
